@@ -1,1 +1,1 @@
-# I will put in thit folder solved tasks
+# I will put in this folder interesting tasks
